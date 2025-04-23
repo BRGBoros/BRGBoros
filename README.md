@@ -1,9 +1,9 @@
-### Hi I´m Nicolas 👋
+
 
 <!--
 
 -->
-# 💫 About Me:
+# 💫 ### Hi I´m Nicolas 👋
 🎓 Studying Computer Science at university  
 🤝 I’m open to collaborating on projects and learning together  
 🌱 I’m currently learning backend development and improving my design skills  
